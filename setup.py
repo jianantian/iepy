@@ -24,7 +24,6 @@ future==0.11.4
 appdirs==1.2.0
 wget==2.0
 colorama==0.2.7
-featureforge>=0.1.5
 Django==1.8.14
 django-relatives==0.3.1
 django-relatedadminwidget==0.0.3
@@ -36,7 +35,7 @@ nose>=1.3.0
 factory-boy==2.4.1
 xmltodict==0.8.6""".splitlines()
 
-
+# featureforge>=0.1.5
 setup(
     name='iepy',
     version=iepy_version,
